@@ -1,7 +1,7 @@
-Interfaz Gráfica (tkinter): Se usa para crear los botones y etiquetas que permiten al usuario interactuar con el juego.
+Gráfica Interfaz (tkinter): Se emplea para generar botones y etiquetas que facilitan la interacción del usuario con el juego.
 
-Lógica del Juego: El código maneja la elección aleatoria de la computadora, la comparación de elecciones entre el jugador y la computadora, y la actualización de puntajes y rachas de victorias.
+Lógica de la Aventura: El código gestiona la selección aleatoria del equipo, la comparación de decisiones entre el jugador y el equipo, y la actualización de puntos y series de victorias.
 
-Resultados Visuales: El juego muestra imágenes correspondientes a las opciones seleccionadas por el jugador y la computadora, así como los resultados del juego (ganar, perder, empate).
+Visualizaciones de Resultados: El juego presenta imágenes relacionadas con las alternativas escogidas por el jugador y el ordenador, además de los desenlaces del juego (victoria, derrota, empate).
 
-Reiniciar Juego: El juego se reinicia automáticamente cuando el jugador alcanza una puntuación de 5 o cuando el jugador presiona el botón de reiniciar.
+Resume el Juego: El juego inicia de manera automática cuando el jugador llega a una puntuación de 5 o cuando el jugador pulsa el botón de inicio.
